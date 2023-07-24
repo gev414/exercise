@@ -1,0 +1,1 @@
+A rabbit spawns and starts rampaging your square-like carrot garden, but leaps only to carrots that are adjacent to other carrots in such way that they form a square. Write a program that calculates how many leaps must the rabbit do. 
